@@ -1,0 +1,18 @@
+{
+    "name": "TestBotM001",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "c5d16d90-efd2-11ec-9a42-6b0df65f7880",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\esteb\\source\\repos\\TestBotM_001\\TestBotM001.bot"
+}
